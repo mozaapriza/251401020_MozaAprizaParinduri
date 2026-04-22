@@ -82,15 +82,15 @@ int main() {
 // kodeLoyal = substring(2,2)
 // jumlah = substring(4,4)
 // 5. tentukan jenis hari:
-// 01 → hari kerja
-// 02 → akhir pekan
-// 03 → hari libur nasional
-// selain itu → kode tidak valid, program selesai
+// 01 = hari kerja
+// 02 = akhir pekan
+// 03 = hari libur nasional
+// selain itu, kode tidak valid, program selesai
 // 5. tentukan jenis pelanggan:
-// 01 → biasa
-// 02 → silver
-// 03 → gold
-// selain itu → kode tidak valid, program selesai
+// 01 = biasa
+// 02 = silver
+// 03 = gold
+// selain itu, kode tidak valid, program selesai
 // 6. tentukan poin per 100.000 berdasarkan jenis hari dan pelanggan:
 // hari kerja:
 // biasa = 1
